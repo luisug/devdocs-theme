@@ -1,27 +1,27 @@
 @font-face {
     font-family: "citrixnewsans-regular";
-    src: url("./fonts/citrix/eot/CitrixNewSans-Regular.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-Regular.woff") format("woff"), url("_./fonts/citrix/woff2/CitrixNewSans-Regular.woff2") format("woff2"), url("_./fonts/citrix/ttf/CitrixNewSans-Regular.ttf") format("truetype"), url("_./fonts/citrix/otf/CitrixNewSans-Regular.otf") format("opentype"); }
+    src: url("./fonts/citrix/eot/CitrixNewSans-Regular.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-Regular.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-Regular.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-Regular.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-Regular.otf") format("opentype"); }
   @font-face {
     font-family: "citrixnewsans-bold";
-    src: url("./_./fonts/citrix/eot/CitrixNewSans-Bold.eot") format("eot"), url("_./fonts/citrix/woff/CitrixNewSans-Bold.woff") format("woff"), url("_./fonts/citrix/woff2/CitrixNewSans-Bold.woff2") format("woff2"), url("_./fonts/citrix/ttf/CitrixNewSans-Bold.ttf") format("truetype"), url("_./fonts/citrix/otf/CitrixNewSans-Bold.otf") format("opentype"); }
+    src: url("./fonts/citrix/eot/CitrixNewSans-Bold.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-Bold.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-Bold.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-Bold.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-Bold.otf") format("opentype"); }
   @font-face {
     font-family: "citrixnewsans-bolditalic";
-    src: url("./_./fonts/citrix/eot/CitrixNewSans-bolditalic.eot") format("eot"), url("_./fonts/citrix/woff/CitrixNewSans-bolditalic.woff") format("woff"), url("_static/woff2/fonts/CitrixNewSans-bolditalic.woff2") format("woff2"), url("_./fonts/citrix/ttf/CitrixNewSans-bolditalic.ttf") format("truetype"), url("_./fonts/citrix/otf/CitrixNewSans-bolditalic.otf") format("opentype"); }
+    src: url("./fonts/citrix/eot/CitrixNewSans-bolditalic.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-bolditalic.woff") format("woff"), url("_static/woff2/fonts/CitrixNewSans-bolditalic.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-bolditalic.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-bolditalic.otf") format("opentype"); }
   @font-face {
     font-family: "citrixnewsans-italic";
-    src: url("./_./fonts/citrix/eot/CitrixNewSans-Italic.eot") format("eot"), url("_./fonts/citrix/woff/CitrixNewSans-Italic.woff") format("woff"), url("_./fonts/citrix/woff2/CitrixNewSans-Italic.woff2") format("woff2"), url("_./fonts/citrix/ttf/CitrixNewSans-Italic.ttf") format("truetype"), url("_./fonts/citrix/otf/CitrixNewSans-Italic.otf") format("opentype"); }
+    src: url("./fonts/citrix/eot/CitrixNewSans-Italic.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-Italic.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-Italic.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-Italic.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-Italic.otf") format("opentype"); }
   @font-face {
     font-family: "citrixnewsans-light";
-    src: url("./_./fonts/citrix/eot/CitrixNewSans-Light.eot") format("eot"), url("_./fonts/citrix/woff/CitrixNewSans-Light.woff") format("woff"), url("_./fonts/citrix/woff2/CitrixNewSans-Light.woff2") format("woff2"), url("_./fonts/citrix/ttf/CitrixNewSans-Light.ttf") format("truetype"), url("_./fonts/citrix/otf/CitrixNewSans-Light.otf") format("opentype"); }
+    src: url("./fonts/citrix/eot/CitrixNewSans-Light.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-Light.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-Light.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-Light.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-Light.otf") format("opentype"); }
   @font-face {
     font-family: "citrixnewsans-lightitalic";
-    src: url("./_./fonts/citrix/eot/CitrixNewSans-LightItalic.eot") format("eot"), url("_./fonts/citrix/woff/CitrixNewSans-LightItalic.woff") format("woff"), url("_./fonts/citrix/woff2/CitrixNewSans-LightItalic.woff2") format("woff2"), url("_./fonts/citrix/ttf/CitrixNewSans-LightItalic.ttf") format("truetype"), url("_./fonts/citrix/otf/CitrixNewSans-LightItalic.otf") format("opentype"); }
+    src: url("./fonts/citrix/eot/CitrixNewSans-LightItalic.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-LightItalic.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-LightItalic.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-LightItalic.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-LightItalic.otf") format("opentype"); }
   @font-face {
     font-family: "citrixnewsans-semibold";
-    src: url("./_./fonts/citrix/eot/CitrixNewSans-SemiBold.eot") format("eot"), url("_./fonts/citrix/woff/CitrixNewSans-SemiBold.woff") format("woff"), url("_./fonts/citrix/woff2/CitrixNewSans-SemiBold.woff2") format("woff2"), url("_./fonts/citrix/ttf/CitrixNewSans-SemiBold.ttf") format("truetype"), url("_./fonts/citrix/otf/CitrixNewSans-SemiBold.otf") format("opentype"); }
+    src: url("./fonts/citrix/eot/CitrixNewSans-SemiBold.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-SemiBold.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-SemiBold.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-SemiBold.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-SemiBold.otf") format("opentype"); }
   @font-face {
     font-family: "citrixnewsans-semibolditalic";
-    src: url("./_./fonts/citrix/eot/CitrixNewSans-SemiBoldItalic.eot") format("eot"), url("_static/woff/fonts/CitrixNewSans-SemiBoldItalic.woff") format("woff"), url("_./fonts/citrix/woff2/CitrixNewSans-SemiBoldItalic.woff2") format("woff2"), url("_./fonts/citrix/ttf/CitrixNewSans-SemiBoldItalic.ttf") format("truetype"), url("_./fonts/citrix/otf/CitrixNewSans-SemiBoldItalic.otf") format("opentype"); }
+    src: url("./fonts/citrix/eot/CitrixNewSans-SemiBoldItalic.eot") format("eot"), url("_static/woff/fonts/CitrixNewSans-SemiBoldItalic.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-SemiBoldItalic.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-SemiBoldItalic.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-SemiBoldItalic.otf") format("opentype"); }
 
 
 /* go on with normal style definitions */
