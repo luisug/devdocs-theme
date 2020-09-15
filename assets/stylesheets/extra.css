@@ -30,7 +30,7 @@ time, mark, audio, video ,input[type="text"]{
 .md-header-border-top {
   border-top-width: 0.625rem;
   border-top-style: solid;
-  border-top-color: rgb(0, 0, 0);
+  border-top-color: #05758A;
 }
 
 .md-header {
