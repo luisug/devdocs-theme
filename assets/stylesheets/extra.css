@@ -37,7 +37,7 @@ time, mark, audio, video ,input[type="text"]{
   height: 3.025rem!important;
   border-top-width: 0.625rem;
   border-top-style: solid;
-  border-top-color: rgb(0, 0, 0);
+  border-top-color: #05758A;
   box-shadow: 0 0 0.2rem rgba(0,0,0,.1), 0 0.2rem 0.4rem rgba(0,0,0,.2);
 }
 
