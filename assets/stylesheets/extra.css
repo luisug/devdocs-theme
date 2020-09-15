@@ -1,28 +1,4 @@
-@font-face {
-  font-family: "citrixnewsans-regular";
-  src: url("./fonts/citrix/eot/CitrixNewSans-Regular.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-Regular.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-Regular.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-Regular.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-Regular.otf") format("opentype"); }
-@font-face {
-  font-family: "citrixnewsans-bold";
-  src: url("./fonts/citrix/eot/CitrixNewSans-Bold.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-Bold.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-Bold.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-Bold.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-Bold.otf") format("opentype"); }
-@font-face {
-  font-family: "citrixnewsans-bolditalic";
-  src: url("./fonts/citrix/eot/CitrixNewSans-bolditalic.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-bolditalic.woff") format("woff"), url("_static/woff2/fonts/CitrixNewSans-bolditalic.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-bolditalic.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-bolditalic.otf") format("opentype"); }
-@font-face {
-  font-family: "citrixnewsans-italic";
-  src: url("./fonts/citrix/eot/CitrixNewSans-Italic.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-Italic.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-Italic.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-Italic.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-Italic.otf") format("opentype"); }
-@font-face {
-  font-family: "citrixnewsans-light";
-  src: url("./fonts/citrix/eot/CitrixNewSans-Light.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-Light.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-Light.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-Light.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-Light.otf") format("opentype"); }
-@font-face {
-  font-family: "citrixnewsans-lightitalic";
-  src: url("./fonts/citrix/eot/CitrixNewSans-LightItalic.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-LightItalic.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-LightItalic.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-LightItalic.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-LightItalic.otf") format("opentype"); }
-@font-face {
-  font-family: "citrixnewsans-semibold";
-  src: url("./fonts/citrix/eot/CitrixNewSans-SemiBold.eot") format("eot"), url("./fonts/citrix/woff/CitrixNewSans-SemiBold.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-SemiBold.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-SemiBold.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-SemiBold.otf") format("opentype"); }
-@font-face {
-  font-family: "citrixnewsans-semibolditalic";
-  src: url("./fonts/citrix/eot/CitrixNewSans-SemiBoldItalic.eot") format("eot"), url("_static/woff/fonts/CitrixNewSans-SemiBoldItalic.woff") format("woff"), url("./fonts/citrix/woff2/CitrixNewSans-SemiBoldItalic.woff2") format("woff2"), url("./fonts/citrix/ttf/CitrixNewSans-SemiBoldItalic.ttf") format("truetype"), url("./fonts/citrix/otf/CitrixNewSans-SemiBoldItalic.otf") format("opentype"); }
-
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,500;1,600&display=swap');
 
 /* go on with normal style definitions */
 html, body, div, span, applet, object, iframe,
@@ -38,7 +14,7 @@ article, aside, canvas, details, embed,
 figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video ,input[type="text"]{
-  font-family: 'citrixnewsans-regular';
+    font-family: 'Public Sans', sans-serif;
 }
 
 .md-typeset h1 {
@@ -114,19 +90,19 @@ a.button6{
 display:inline-block;
 margin-top: 10px;
 margin-left:10px;
-border-radius:0.4em;
-font-size:15px;
+border-radius:10px;
+font-size:14px;
 box-sizing: border-box;
 text-decoration:none;
-padding-top:8px;
-padding-bottom:8px;
-padding-left:8px;
-padding-right:8px;
-font-family:'Roboto',sans-serif;
+height: 25px;
+padding-top:5px;
+padding-bottom:5px;
+padding-left:10px;
+padding-right:10px;
+font-family:'Public Sans',sans-serif;
 font-weight:bold;
 color:white;
-background-color:#3369ff;
-box-shadow:inset 0 -0.6em 0 -0.35em rgba(0,0,0,0.17);
+background-color:#1C9CAD;
 text-align:center;
 position:relative;
 }
