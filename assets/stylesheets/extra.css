@@ -33,6 +33,10 @@ time, mark, audio, video ,input[type="text"]{
   border-top-color: #05758A;
 }
 
+.md-sidebar__scrollwrap:hover {
+  overflow-y: auto !important;
+}
+
 .md-header {
   height: 3.025rem!important;
   border-top-width: 0.625rem;
